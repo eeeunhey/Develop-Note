@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOJ/15552.md",
+                "file": "BOJ/2440.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15552"
+              "title": "2440"
             }
           }
         ],
@@ -250,9 +250,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "988a4149d4eacb20",
+  "active": "1870fd4aae5182a1",
   "lastOpenFiles": [
     "BOJ/15552.md",
+    "BOJ/2440.md",
     "2. Java/무제.md",
     "2. Java/JAVA Text RPG.md",
     "BOJ/2747.md",
