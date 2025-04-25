@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOJ/2440.md",
+                "file": "BOJ/1158/1158 학습.rd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2440"
+              "title": "1158 학습.rd"
             }
           }
         ]
@@ -182,15 +182,17 @@
   "active": "137351a01d10e1d3",
   "lastOpenFiles": [
     "BOJ/2439.md",
+    "_Start.md",
+    "BOJ/1158/1158 학습.rd.md",
+    "BOJ/2440.md",
+    "BOJ/1158",
     "BOJ/15552.md",
     "이 노트는 연습용입니다..md",
     "1. GIt/Obsidian 깃 연동하기.md",
     "2. Java/JAVA Text RPG.md",
     "BOJ/2747.md",
-    "BOJ/2440.md",
     "2. Java/무제.md",
     "BOJ",
-    "_Start.md",
     "1. GIt/Git 용어.md",
     "4. C/02-2 첫 번째 C 프로그램 만들기.md",
     "4. C",
