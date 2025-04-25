@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOJ/2440.md",
+                "file": "BOJ/2439.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2440"
+              "title": "2439"
             }
           }
         ],
@@ -252,8 +252,9 @@
   },
   "active": "1870fd4aae5182a1",
   "lastOpenFiles": [
-    "BOJ/15552.md",
     "BOJ/2440.md",
+    "BOJ/2439.md",
+    "BOJ/15552.md",
     "2. Java/무제.md",
     "2. Java/JAVA Text RPG.md",
     "BOJ/2747.md",
