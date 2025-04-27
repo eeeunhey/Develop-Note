@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOJ/1158/1158 학습.rd.md",
+                "file": "BOJ/1158/1158.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1158 학습.rd"
+              "title": "1158"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +181,10 @@
   },
   "active": "137351a01d10e1d3",
   "lastOpenFiles": [
-    "BOJ/2439.md",
-    "_Start.md",
     "BOJ/1158/1158 학습.rd.md",
+    "BOJ/1158/1158.md",
+    "_Start.md",
+    "BOJ/2439.md",
     "BOJ/2440.md",
     "BOJ/1158",
     "BOJ/15552.md",
